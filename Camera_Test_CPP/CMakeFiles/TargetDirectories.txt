@@ -1,0 +1,3 @@
+/home/dnissim/Documents/Rover/Camera_Test/CMakeFiles/camera_test.dir
+/home/dnissim/Documents/Rover/Camera_Test/CMakeFiles/edit_cache.dir
+/home/dnissim/Documents/Rover/Camera_Test/CMakeFiles/rebuild_cache.dir
